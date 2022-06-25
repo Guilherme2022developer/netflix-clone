@@ -1,3 +1,50 @@
+# Clone da netflix 
+Link pra você conferir o projeto pessoalmente 😊: https://netflix-clone-b518b.web.app/
+
+Consumindo uma API externa, usamos React também muito legal realizar esse projeto gostei muito rsrs
+
+![image](https://user-images.githubusercontent.com/98243722/175753652-1cc44da2-09ab-4f98-a726-d4ebb01ea0ac.png)
+
+Totalmente responsivo.
+
+![image](https://user-images.githubusercontent.com/98243722/175753791-553378a6-768d-401c-9d09-10188099eec8.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
